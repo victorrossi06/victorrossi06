@@ -1,11 +1,16 @@
 <!--
   README DE PERFIL — Victor Rossi
   Conceito: o perfil é o visor de uma câmera; cada seção é um "frame".
-  Arquivos locais: assets/banner.svg e assets/visuall-logo.png
+  Arquivos locais (pasta assets/): banner.svg, typing.svg, divider.svg,
+  shutter.svg e visuall-logo.png — todas as animações são SVG do próprio repo.
 -->
 
 <p align="center">
   <img width="100%" src="./assets/banner.svg" alt="Victor Rossi — Eng. de Software, Python, Visão Computacional e Design"/>
+</p>
+
+<p align="center">
+  <img src="./assets/typing.svg" width="650" alt="detectando: Python, Visão Computacional, Kotlin + Android, Design de interfaces, ESP32 + hardware"/>
 </p>
 
 <p align="center">
@@ -14,7 +19,7 @@
   <img src="https://img.shields.io/badge/São_Paulo-14110f?style=flat-square&logo=googlemaps&logoColor=FFC857" alt="São Paulo"/>
 </p>
 
-<br/>
+<p align="center"><img src="./assets/divider.svg" width="100%" alt=""/></p>
 
 ### `[ FRAME 01 ]` &nbsp;sobre mim
 
@@ -25,7 +30,7 @@
 | 🎂 **Idade** | 19 anos |
 | 🎯 **Foco** | Python · Visão Computacional · Design |
 
-<br/>
+<p align="center"><img src="./assets/divider.svg" width="100%" alt=""/></p>
 
 ### `[ FRAME 02 ]` &nbsp;projetos
 
@@ -70,7 +75,7 @@ Foi o ponto de partida para o VisuAll.
 
 </details>
 
-<br/>
+<p align="center"><img src="./assets/divider.svg" width="100%" alt=""/></p>
 
 ### `[ FRAME 03 ]` &nbsp;tecnologias
 
@@ -104,7 +109,7 @@ Foi o ponto de partida para o VisuAll.
 <img src="https://img.shields.io/badge/Canva-14110f?style=for-the-badge&logo=canva&logoColor=FFC857" alt="Canva"/>
 <img src="https://img.shields.io/badge/CapCut-14110f?style=for-the-badge&logo=capcut&logoColor=FFC857" alt="CapCut"/>
 
-<br/>
+<p align="center"><img src="./assets/divider.svg" width="100%" alt=""/></p>
 
 ### `[ FRAME 04 ]` &nbsp;próximos passos
 
@@ -113,6 +118,8 @@ Foi o ponto de partida para o VisuAll.
 
 <br/>
 
+<p align="center"><img src="./assets/divider.svg" width="100%" alt=""/></p>
+
 <p align="center">
-  <code>■ STOP</code> &nbsp;·&nbsp; obrigado por assistir até aqui &nbsp;·&nbsp; <code>FOCUS: LOCKED</code>
+  <img src="./assets/shutter.svg" width="100%" alt="■ STOP · obrigado por assistir até aqui"/>
 </p>
