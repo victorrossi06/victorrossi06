@@ -14,9 +14,9 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/victor-zanandre"><img src="https://img.shields.io/badge/LinkedIn-14110f?style=flat-square&logo=linkedin&logoColor=FFC857" alt="LinkedIn"/></a>
-  <img src="https://img.shields.io/badge/FIAP-14110f?style=flat-square" alt="FIAP"/>
-  <img src="https://img.shields.io/badge/São_Paulo-14110f?style=flat-square&logo=googlemaps&logoColor=FFC857" alt="São Paulo"/>
+  <a href="https://www.linkedin.com/in/victor-zanandre"><img src="https://img.shields.io/badge/LinkedIn-161618?style=flat-square&logo=linkedin&logoColor=FF3B47" alt="LinkedIn"/></a>
+  <img src="https://img.shields.io/badge/FIAP-161618?style=flat-square" alt="FIAP"/>
+  <img src="https://img.shields.io/badge/São_Paulo-161618?style=flat-square&logo=googlemaps&logoColor=FF3B47" alt="São Paulo"/>
 </p>
 
 <p align="center"><img src="./assets/divider.svg" width="100%" alt=""/></p>
@@ -80,34 +80,34 @@ Foi o ponto de partida para o VisuAll.
 ### `[ FRAME 03 ]` &nbsp;tecnologias
 
 **Linguagens**<br/>
-<img src="https://img.shields.io/badge/Python-14110f?style=for-the-badge&logo=python&logoColor=FFC857" alt="Python"/>
-<img src="https://img.shields.io/badge/Kotlin-14110f?style=for-the-badge&logo=kotlin&logoColor=FFC857" alt="Kotlin"/>
-<img src="https://img.shields.io/badge/JavaScript-14110f?style=for-the-badge&logo=javascript&logoColor=FFC857" alt="JavaScript"/>
-<img src="https://img.shields.io/badge/HTML5-14110f?style=for-the-badge&logo=html5&logoColor=FFC857" alt="HTML5"/>
-<img src="https://img.shields.io/badge/CSS3-14110f?style=for-the-badge&logo=css3&logoColor=FFC857" alt="CSS3"/>
+<img src="https://img.shields.io/badge/Python-161618?style=for-the-badge&logo=python&logoColor=FF3B47" alt="Python"/>
+<img src="https://img.shields.io/badge/Kotlin-161618?style=for-the-badge&logo=kotlin&logoColor=FF3B47" alt="Kotlin"/>
+<img src="https://img.shields.io/badge/JavaScript-161618?style=for-the-badge&logo=javascript&logoColor=FF3B47" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/HTML5-161618?style=for-the-badge&logo=html5&logoColor=FF3B47" alt="HTML5"/>
+<img src="https://img.shields.io/badge/CSS3-161618?style=for-the-badge&logo=css3&logoColor=FF3B47" alt="CSS3"/>
 
 **Visão Computacional**<br/>
-<img src="https://img.shields.io/badge/OpenCV-14110f?style=for-the-badge&logo=opencv&logoColor=FFC857" alt="OpenCV"/>
-<img src="https://img.shields.io/badge/MediaPipe-14110f?style=for-the-badge&logo=google&logoColor=FFC857" alt="MediaPipe"/>
+<img src="https://img.shields.io/badge/OpenCV-161618?style=for-the-badge&logo=opencv&logoColor=FF3B47" alt="OpenCV"/>
+<img src="https://img.shields.io/badge/MediaPipe-161618?style=for-the-badge&logo=google&logoColor=FF3B47" alt="MediaPipe"/>
 
 **Mobile e Front-end**<br/>
-<img src="https://img.shields.io/badge/Android-14110f?style=for-the-badge&logo=android&logoColor=FFC857" alt="Android"/>
-<img src="https://img.shields.io/badge/React-14110f?style=for-the-badge&logo=react&logoColor=FFC857" alt="React"/>
+<img src="https://img.shields.io/badge/Android-161618?style=for-the-badge&logo=android&logoColor=FF3B47" alt="Android"/>
+<img src="https://img.shields.io/badge/React-161618?style=for-the-badge&logo=react&logoColor=FF3B47" alt="React"/>
 
 **Hardware**<br/>
-<img src="https://img.shields.io/badge/Arduino-14110f?style=for-the-badge&logo=arduino&logoColor=FFC857" alt="Arduino"/>
-<img src="https://img.shields.io/badge/ESP32-14110f?style=for-the-badge&logo=espressif&logoColor=FFC857" alt="ESP32"/>
+<img src="https://img.shields.io/badge/Arduino-161618?style=for-the-badge&logo=arduino&logoColor=FF3B47" alt="Arduino"/>
+<img src="https://img.shields.io/badge/ESP32-161618?style=for-the-badge&logo=espressif&logoColor=FF3B47" alt="ESP32"/>
 
 **Ferramentas**<br/>
-<img src="https://img.shields.io/badge/Git-14110f?style=for-the-badge&logo=git&logoColor=FFC857" alt="Git"/>
-<img src="https://img.shields.io/badge/GitHub-14110f?style=for-the-badge&logo=github&logoColor=FFC857" alt="GitHub"/>
-<img src="https://img.shields.io/badge/VS_Code-14110f?style=for-the-badge&logo=visualstudiocode&logoColor=FFC857" alt="VS Code"/>
-<img src="https://img.shields.io/badge/Android_Studio-14110f?style=for-the-badge&logo=androidstudio&logoColor=FFC857" alt="Android Studio"/>
+<img src="https://img.shields.io/badge/Git-161618?style=for-the-badge&logo=git&logoColor=FF3B47" alt="Git"/>
+<img src="https://img.shields.io/badge/GitHub-161618?style=for-the-badge&logo=github&logoColor=FF3B47" alt="GitHub"/>
+<img src="https://img.shields.io/badge/VS_Code-161618?style=for-the-badge&logo=visualstudiocode&logoColor=FF3B47" alt="VS Code"/>
+<img src="https://img.shields.io/badge/Android_Studio-161618?style=for-the-badge&logo=androidstudio&logoColor=FF3B47" alt="Android Studio"/>
 
 **Design e Mídia**<br/>
-<img src="https://img.shields.io/badge/Figma-14110f?style=for-the-badge&logo=figma&logoColor=FFC857" alt="Figma"/>
-<img src="https://img.shields.io/badge/Canva-14110f?style=for-the-badge&logo=canva&logoColor=FFC857" alt="Canva"/>
-<img src="https://img.shields.io/badge/CapCut-14110f?style=for-the-badge&logo=capcut&logoColor=FFC857" alt="CapCut"/>
+<img src="https://img.shields.io/badge/Figma-161618?style=for-the-badge&logo=figma&logoColor=FF3B47" alt="Figma"/>
+<img src="https://img.shields.io/badge/Canva-161618?style=for-the-badge&logo=canva&logoColor=FF3B47" alt="Canva"/>
+<img src="https://img.shields.io/badge/CapCut-161618?style=for-the-badge&logo=capcut&logoColor=FF3B47" alt="CapCut"/>
 
 <p align="center"><img src="./assets/divider.svg" width="100%" alt=""/></p>
 
