@@ -111,7 +111,15 @@ Foi o ponto de partida para o VisuAll.
 
 <p align="center"><img src="./assets/divider.svg" width="100%" alt=""/></p>
 
-### `[ FRAME 04 ]` &nbsp;próximos passos
+### `[ FRAME 04 ]` &nbsp;atividade
+
+<p align="center">
+  <img src="./profile-3d-contrib/profile-visor.svg" width="100%" alt="Gráfico 3D de contribuições no GitHub"/>
+</p>
+
+<p align="center"><img src="./assets/divider.svg" width="100%" alt=""/></p>
+
+### `[ FRAME 05 ]` &nbsp;próximos passos
 
 - 💼 Conquistar meu primeiro **estágio** em desenvolvimento de software
 - 🎬 Lançar um **canal no YouTube** sobre programação, compartilhando projetos e o que aprendo pelo caminho
